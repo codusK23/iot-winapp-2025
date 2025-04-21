@@ -5,10 +5,6 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{06D3BA2F-56EF-488B-B0CE-7ECF94864EC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxWinApp01", "..\SyntaxWinApp01\SyntaxWinApp01.csproj", "{1437454D-573B-4CEE-8511-36063B6A98B7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxWinApp02", "..\WinFormsApp1\SyntaxWinApp02.csproj", "{FC6099CF-22E0-43D2-8934-31E83562BB0B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxWinApp03", "SyntaxWinApp03\SyntaxWinApp03.csproj", "{3933A894-1F9B-498F-9EA4-93794EBD3F66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxWinApp04", "SyntaxWinApp04\SyntaxWinApp04.csproj", "{43D6D85D-3BDA-4E9B-9CA9-6EA7CF528418}"
