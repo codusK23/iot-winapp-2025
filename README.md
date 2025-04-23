@@ -491,6 +491,10 @@ IoT 개발자 C#/WinApp 리포지토리
 
         <img src="./image/cs0007.png" width="600">
 
+
+        https://github.com/user-attachments/assets/153abae7-8541-4cac-82d9-ac626f6d30a9
+
+
     3. 컬렉션 - [소스](./day04/Day04Study/SyntaxWinApp02/FrmMain.cs)
         - 배열, 리스트, 딕셔너리, 큐, 스택 등 여러데이터를 저장하고 다루는 구조를 가진 객체를 통칭
         - 배열로 콤보박스에 데이터 할당
