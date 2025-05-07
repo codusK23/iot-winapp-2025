@@ -1085,11 +1085,10 @@ IoT 개발자 C#/WinApp 리포지토리
         - IT002 : IT 소모품(마우스, 키보드, 랜선)
         - OF001 : 사무용품(복사용지, 볼펜)
         - NET001 : 네트워크 장비 (라우터, 허브 스위치)
-        
-        <동영상 삽입>
+
       
 
-https://github.com/user-attachments/assets/236e1704-89bb-45ee-81ac-ee623060d096
+    https://github.com/user-attachments/assets/236e1704-89bb-45ee-81ac-ee623060d096
 
 
 
@@ -1098,4 +1097,7 @@ https://github.com/user-attachments/assets/236e1704-89bb-45ee-81ac-ee623060d096
     - '재고관리'에 존재하는 항목만 입출고 가능
     - 입출고 수량 재고관리에 반영
 
-        <동영상 삽입>
+
+
+    https://github.com/user-attachments/assets/771001ae-491c-4dbe-be54-121cd2934de1
+
