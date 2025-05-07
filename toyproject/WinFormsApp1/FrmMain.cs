@@ -67,10 +67,10 @@ namespace WindowsFormsApp1
             string manager = TxtManager.Text;
             string phone = TxtPhone.Text;
 
-            // ✔ 입출고에 따른 수량 변화 계산
+            // 입출고에 따른 수량 변화
             int updateItemNum = RdoInput.Checked ? itemNum_Tap2 : -itemNum_Tap2;
 
-            // ✔ 재고 수량 업데이트 시도
+            // 재고 수량 업데이트
             UpdateItemNum(itemCode_Tap2, updateItemNum);
 
             if (editingRowIndex >= 0)
@@ -97,7 +97,7 @@ namespace WindowsFormsApp1
             MessageBox.Show("저장되었습니다.", "저장완료", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
-        Dictionary<string, List<string>> stockDict = new Dictionary<string, List<string>>(); // 재고코드 → 재고명
+        Dictionary<string, List<string>> stockDict = new Dictionary<string, List<string>>(); // 재고코드, 재고명
 
         private void LoadCsv(string filePath, DataGridView grid)    // 파일 불러오기 함수
         {
